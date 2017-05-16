@@ -1,4 +1,5 @@
 require 'gilded_rose'
+require 'item'
 require 'test/unit'
 
 class TestUntitled < Test::Unit::TestCase
